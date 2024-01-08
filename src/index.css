@@ -821,18 +821,12 @@ footer h1 {
 .services-wrapper {
   display: flex;
   flex-wrap: wrap-reverse;
-  justify-content: center;
-  margin: 0 !important;
-  padding: 0 !important;
+  justify-content: space-around;
   align-items: center;
   background-color: #a7a099;
-  padding: 75px;
 }
 
 .services-profile {
-  margin: 0 !important;
-  padding-top: 20px;
-  flex: 1;
   display: flex;
   align-content: flex-end;
   justify-content: center;
@@ -840,20 +834,18 @@ footer h1 {
 
 .services-profile img {
  height: 60vh;
+ padding-top: 50px;
  align-self: flex-end !important;
  margin-bottom: 0px !important;
  
 }
 
 .services-description {
-  flex: 1;
+  justify-content: center;
   color: white;
   font-size: 20px;
   font-family: "Quicksand", sans-serif;
   font-weight: 500;
-  text-align: left;
-  padding-left: 50px;
-  padding-right: 50px;
 }
 
 .services-description h1 {
@@ -878,10 +870,10 @@ footer h1 {
 
 
 .services-description ul {
-  margin-top: 20px;
   list-style-type: none;
 
 }
+
 .services-description ul li {
   font-size: 20px;
   padding-top: 8px;
@@ -1146,12 +1138,6 @@ footer h1 {
     font-family: "Poppins", sans-serif;
     font-size: 35px;
     font-weight: 600;
-  }
-
-  .services-description {
-    text-align: left;
-    padding-left: 75px;
-    padding-bottom: 75px;
   }
 
   .services-wrapper h1 {

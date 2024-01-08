@@ -28,7 +28,7 @@ export default function Services() {
                 <h1 data-aos="fade-left">Services</h1>
                 <h3>I'm ready to partner with you 🫱🏻‍🫲🏼</h3>
                 
-                <div style={{display: "flex", gap: "30px", flexWrap: "wrap"}}>
+                <div style={{display: "flex", marginTop: "30px", gap: "20px",flexWrap: "wrap"}}>
                 <ul> 
                     <li><img src={listIcon} alt=""/>3D Design</li>
                     <li><img src={listIcon} alt=""/>Architecture</li>
