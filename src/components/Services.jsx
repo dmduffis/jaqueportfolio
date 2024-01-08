@@ -30,16 +30,16 @@ export default function Services() {
                 
                 <div style={{display: "flex", gap: "30px", flexWrap: "wrap"}}>
                 <ul> 
-                    <li><img src={listIcon} />3D Design</li>
-                    <li><img src={listIcon} />Architecture</li>
-                    <li><img src={listIcon} />Landscape Design</li>
-                    <li><img src={listIcon} />Interior Design</li>
+                    <li><img src={listIcon} alt=""/>3D Design</li>
+                    <li><img src={listIcon} alt=""/>Architecture</li>
+                    <li><img src={listIcon} alt=""/>Landscape Design</li>
+                    <li><img src={listIcon} alt=""/>Interior Design</li>
                 </ul>
 
                 <ul>
-                    <li><img src={autoCAD} />AutoCAD</li>
-                    <li><img src={SketchUp} />SketchUp</li>
-                    <li><img src={VRay} />V-Ray</li>
+                    <li><img src={autoCAD} alt=""/>AutoCAD</li>
+                    <li><img src={SketchUp} alt=""/>SketchUp</li>
+                    <li><img src={VRay} alt=""/>V-Ray</li>
                 </ul>
                 </div>
             </div>
