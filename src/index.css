@@ -1149,6 +1149,7 @@ footer h1 {
 
   .services-wrapper {
     gap: 30px;
+    margin-bottom: 0 !important;
   }
 
   .services-wrapper h1 {
@@ -1159,6 +1160,8 @@ footer h1 {
 
   .services-profile img {
     height: 50vh;
+    align-self: flex-end !important;
+    margin-bottom: 0 !important;
   }
 
   
