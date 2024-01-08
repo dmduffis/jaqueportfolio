@@ -68,7 +68,7 @@ export default function ContactSection() {
                 <ul className='contact_info_list'>
                     <li><img src={whatsAppIcon} alt="WhatsApp" />+55 11 96580-1375</li>
                     <li><img src={emailIcon} alt="Email" />contato@jaquelinelima.com.br</li>
-                    <li><img src={calendarIcon} alt="Email" />9:00 AM - 5:00 PM (Sāo Paulo, GMT-3)</li>
+                    <li><img src={calendarIcon} alt="Email" />9:00 AM - 5:00 PM (Sāo Paulo)</li>
                 </ul>
 
                 <div className="brazil_time_wrapper">
