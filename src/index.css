@@ -1121,7 +1121,7 @@ footer h1 {
   }
 
   .profile img {
-    height: 50vh;
+    height: 40vh;
     padding-top: 75npx;
   }
 
@@ -1159,7 +1159,7 @@ footer h1 {
   }
 
   .services-profile img {
-    height: 50vh;
+    height: 40vh;
     align-self: flex-end !important;
     margin-bottom: 0 !important;
   }
