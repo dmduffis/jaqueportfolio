@@ -169,7 +169,7 @@ nav ul li.social a:hover img {
 
 .intro h1 {
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 50px;
   text-align: center;
   color: #ebebeb;
@@ -178,14 +178,14 @@ nav ul li.social a:hover img {
 
 .intro h2 {
   font-family: "Poppins", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 40px;
   text-align: center;
   color: #ebebeb;
 }
 
 .intro span {
-  font-weight: 700;
+  font-weight: 600;
   color: #fcde8b;
 }
 
